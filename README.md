@@ -13,6 +13,17 @@ Before getting started, ensure that you have the following prerequisites install
 - Python (version 3.11)
 - pip (Python package installer)
 
+Sample pages:
+![image](https://github.com/Shivapriya1726/Flight-Booking-System/assets/90460346/d9ece7fa-6e74-4734-8265-b6fe1e741d0d)
+![image](https://github.com/Shivapriya1726/Flight-Booking-System/assets/90460346/f60e018c-8ebc-4517-9c46-955055d95d6b)
+
+Demo:
+
+
+
+https://github.com/Shivapriya1726/Flight-Booking-System/assets/90460346/fec9f1f4-cc60-4f93-a8bf-7d954b217793
+
+
 ## Setup Instructions
 To set up the Flight Booking Web App locally, please follow these steps:
 
@@ -47,3 +58,5 @@ python manage.py createsuperuser
 7. Start the development server:
 python manage.py runserver
 8. Access the web app through your browser at `http://localhost:8000`.
+
+
